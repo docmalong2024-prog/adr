@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MMO Auto Noti Listener</string>
+    <string name="title_config">CẤU HÌNH WEBHOOK KẾT NỐI</string>
+    <string name="btn_grant_permission">CẤP QUYỀN ĐỌC THÔNG BÁO</string>
+    <string name="btn_test_ping">KIỂM TRA KẾT NỐI SERVER</string>
+    <string name="btn_test_transaction">BẮN TEST GIAO DỊCH 50.000Đ</string>
+    <string name="label_live_log">NHẬT KÝ THÔNG BÁO REAL-TIME</string>
+    <string name="default_url">http://10.0.2.2:3000/api/webhook/bank</string>
+    <string name="default_secret">DUCTRI_SECRET_KEY_2026</string>
+</resources>
+
